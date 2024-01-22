@@ -12,7 +12,4 @@ git branch -M main
 git remote add origin https://github.com/siddhi1529/mlproject.git
 git push -u origin main
 
-OR
-
-# Deploy on AWS cloud
 
